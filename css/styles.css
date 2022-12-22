@@ -53,8 +53,9 @@ p{
 }
 .bottom-cloud{
   position: absolute;
+  top:500px;
   bottom:300px;
-  left:250px;
+  left:15%;
 }
 .hello-text{
   color: #40514E;
